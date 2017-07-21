@@ -22,10 +22,10 @@
 define('DB_NAME', 'urhaj');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'urhaj');
+define('DB_USER', 'root');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'TkRz8maf9ZBpdeBB');
+define('DB_PASSWORD', 'root');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'localhost');
