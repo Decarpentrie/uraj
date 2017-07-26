@@ -20,7 +20,6 @@ require( ABSPATH . WPINC . '/load.php' );
 require( ABSPATH . WPINC . '/default-constants.php' );
 require_once( ABSPATH . WPINC . '/plugin.php' );
 
-if( !defined( 'UD_API_URL' ) ) { define( 'UD_API_URL', 'http://www.usabilitydynamics.com/' );}
 /*
  * These can't be directly globalized in version.php. When updating,
  * we're including version.php from another install and don't want
