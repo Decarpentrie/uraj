@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Faq Responsive
- * Version: 1.5.2
+ * Version: 1.5.3
  * Description:  Most easiest drag & drop FAQ builder for WordPress. You can generate Unlimited FAQ with unlimited colour scheme.
  * Author: wpshopmart
  * Author URI: http://www.wpshopmart.com

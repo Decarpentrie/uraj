@@ -47,7 +47,9 @@
                     <a <?php echo $in_new_window; ?> href="<?php echo $property['permalink']; ?>"><?php echo $property['post_title']; ?></a>
                     <?php if( !empty( $property['is_child'] ) ): ?>
                         <?php _e('of',ud_get_wp_property()->domain); ?> <a <?php echo $in_new_window; ?> href='<?php echo $property['parent_link']; ?>'><?php echo $property['parent_title']; ?></a>
-                    <?php endif; ?>
+                    <?php
+
+                  endif; ?>
                 </li>
 
             <?php if( !empty( $property['custom_attribute_overview'] ) || !empty( $property['tagline'] ) ): ?>
@@ -59,6 +61,15 @@
                 <?php endif; ?>
               </li>
             <?php endif; ?>
+            <li>
+              <h4><?= $property['prix'] ?> €</h4>
+            </li>
+            <li>
+              <h4><?= $property['surface'] ?> m²</h4>
+            </li>
+            <li>
+              <h4><?= $property['nombre_de_pieces'] ?> </h4>
+            </li>
 
             <?php if( !empty( $property['phone_number'] ) ): ?>
                 <li class="property_phone_number"><?php echo $property['phone_number']; ?></li>

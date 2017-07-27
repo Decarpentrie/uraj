@@ -4,7 +4,7 @@ Donate link: http://www.wpshopmart.com
 Tags:  FAQ, FAQs, frequently asked questions, FAQ Accordion, Accordion, accordion bootstrap, AJAX, analytics, animated faq, animation, answer, answers, Bootstrap, categories, collapse, css3, css3 accordion, css3 faq, custom post type with accordion, easy faq, Facebook, faq bootstrap, FAQ categories, faq list, faq page, FAQ Plugin, faq responsive, faq with accordion,  help, help desk, helpdesk, html5, javascript, jquery, jquery ui accordion, jquery ui, knowledge base, knowledge base, questions, responsive, responsive accordion, Responsive FAQ, shortcodes, simple FAQ, social media, statistics, submit questions, toggle, toggle content, widget, widgets, woocommerce, WooCommerce FAQ, woocommerce tab, wordpress, WordPress FAQ, WordPress FAQ plugin, WordPress Plugins  
 Requires at least: 3.3
 Tested up to: 4.8
-Stable tag: 1.5.2
+Stable tag: 1.5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -151,6 +151,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 11. Faq settings panel
 
 == Changelog ==
+
+= 1.5.3 =
+* small css issue resolved
 
 = 1.5.2 =
 * Compatible with wordpress 4.8
